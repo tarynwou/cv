@@ -1,0 +1,324 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.container{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: 102%;
+	margin: 0px;
+	overflow-x: hidden;
+
+	background-color: white;
+	color: black;
+}
+
+#navbar{
+	position:fixed;
+	top: 0px;
+	left: 0px;
+	min-width: 100%;
+	max-width: 2500px;
+	height: 120px;
+	margin: auto;
+	background-color: #182952;
+	z-index: 10;
+
+
+}
+
+
+.nav{
+	width:;
+	height: 120px;
+	text-align: center;	
+	line-height: 190px;	
+	float: left;
+	background-color:;
+	color: white;
+	border: ;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight:lighter;
+	padding-right: 15px;
+	padding-left: 15px;
+	bottom: 0px;
+	position: relative;
+}
+
+.navtitle{
+	text-decoration: none;
+	color: white;
+
+}
+
+.navtitle:hover{
+	text-decoration: none;
+	color: #FFE400;
+
+}
+
+#home{
+	width: 300px;
+	bottom: 0px;
+	left: 0px;
+	position: relative;
+	float: left;
+}
+
+
+#homepage{
+	top: 50px;
+	bottom: 0px;
+	left: 0px;
+	position: relative;
+	float: left;
+}
+
+#experiencepage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+
+}
+
+#skititle{
+	color: #FFE400;
+}
+
+#educationpage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+}
+
+
+#extracurricularspage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+}
+
+#skillspage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+}
+
+#accomplishmentspage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+}
+
+#portfoliopage{
+	bottom: 0px;
+	right: 0px;
+	float: right;
+	position: relative;
+	padding-right: 30px;
+}
+
+#content{
+	font-family: Geneva;
+	position: relative;
+	top:100px;
+
+	
+}
+
+#heading1{
+	position: relative;
+	top: -35px;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	margin-bottom: 50px;
+	background-color: #F9F9F9;
+	width: 102%;
+
+
+}
+
+#heading2{
+	position: relative;
+	top: 80px;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	margin-bottom: 50px;
+	background-color: #F9F9F9;
+	width: 102%;	
+	margin-top: 200px;
+
+}
+
+#softtitle{
+	transform: translateX(-33%)
+}
+
+h1{
+	font-size: 50px;
+	position: relative;
+
+}
+
+.icon{
+	width: 100px;
+	position: relative;
+	top: 10px;
+	left: 2.5px;
+
+}
+
+
+#row1{
+	position: relative;
+	top: 20px;
+	bottom: 20px;	
+	margin-bottom: 20px;
+	margin-top: 20px;
+	height: 20px;
+	align: center;
+
+}
+
+#row2{
+	position: relative;
+	top: 130px;
+	bottom: 20px;	
+	margin-bottom: 20px;
+	margin-top: 20px;
+	height: 200px;
+
+}
+
+#row3{
+	position: relative;
+	top: 60px;
+	bottom: 20px;	
+	margin-bottom: 20px;
+	margin-top: 20px;
+	height: 200px;
+	clear: left;
+
+}
+
+.hskill{
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 100px;
+	float: left;
+	position: relative;
+	width: 150px;
+	text-align: center;
+
+}
+
+.sskill{
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 100px;
+	float: left;
+	position: relative;
+	width: 150px;
+	text-align: center;
+
+}
+
+.ssskill{
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 100px;
+	float: left;
+	position: relative;
+	width: 150px;
+	text-align: center;
+
+}
+
+.hard{
+	width: 120px;
+	height: 120px;
+	background-color: #182952;
+  	border-radius: 2%;
+	margin-left: 15px;
+
+}
+
+#ha1{
+	position: relative;
+	left: 17%;	
+}
+
+#ha2{
+	position: relative;
+	left: 17%;	
+}
+
+#ha3{
+	position: relative;
+	left: 17%;	
+}
+
+#ha4{
+	position: relative;
+	left: 17%;	
+}
+
+
+
+.soft{
+	width: 120px;
+	height: 120px;
+	background-color: #182952;
+  	border-radius: 50%;
+	margin-left: 15px;
+}
+
+
+
+#connect{
+	position: relative;
+	left: 40%;
+
+}
+
+.contact{
+	width: 3%;
+	position: absolute;
+	bottom: 50px;	
+	float: right;
+	margin-right: 20px;
+
+}
+
+#p{
+	transform: translateX(-49px)		
+
+}
+
+
+#ppp{
+	transform: translateX(52px)	
+}
+
+
+
+.footer{
+	width: 102%;
+	height: 120px;
+	position: relative;
+	bottom: -200px;
+	background-color: #182952;
+	color: white;
+	text-align: center;
+	line-height: 20px;
+	font-family: Geneva;
+
+
+}
+#foot{
+	line-height: 120px;
+	transform: translateX(-33%)	
+}

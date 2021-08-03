@@ -1,0 +1,300 @@
+@charset "utf-8";
+/* CSS Document */
+
+html{
+
+}
+
+.container{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: 102%;
+	margin: 0px;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	background-color: white;
+	color: black;
+
+}
+
+#navbar{
+	position:fixed;
+	top: 0px;
+	left: 0px;
+	min-width: 100%;
+	max-width: 2500px;
+	height: 120px;
+	margin: auto;
+	background-color: #182952;
+	z-index: 10;
+
+
+}
+
+
+.nav{
+	width:;
+	height: 120px;
+	text-align: center;	
+	line-height: 190px;	
+	float: left;
+	background-color:;
+	color: white;
+	border: ;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight:lighter;
+	padding-right: 15px;
+	padding-left: 15px;
+	bottom: 0px;
+	position: relative;
+}
+
+.navtitle{
+	text-decoration: none;
+	color: white;
+
+}
+
+.navtitle:hover{
+	text-decoration: none;
+	color: #FFE400;
+
+}
+
+#home{
+	width: 300px;
+	bottom: 0px;
+	left: 0px;
+	position: relative;
+	float: left;
+}
+
+
+#homepage{
+	top: 50px;
+	bottom: 0px;
+	left: 0px;
+	position: relative;
+	float: left;
+}
+
+#experiencepage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+
+}
+
+#acctitle{
+	color: #FFE400;
+}
+
+#educationpage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+}
+
+
+#extracurricularspage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+}
+
+#skillspage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+}
+
+#accomplishmentspage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+}
+
+#portfoliopage{
+	bottom: 0px;
+	right: 0px;
+	float: right;
+	position: relative;
+	padding-right: 30px;
+}
+
+#content{
+	font-family: Geneva, Arial;
+	position: relative;
+	max-height: 6300px;
+	background-image: url(photos/skys.jpg);
+ 	background-repeat: repeat;
+	background-size: 102%;
+	background-color: #182952b3;
+		
+}
+
+#heading1{
+	position: relative;
+	top: 25px;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	margin-bottom: 0px;
+	background-color: #F9F9F9dd;
+	width: 102%;	
+
+}
+
+h4{
+	font-size: 50px;
+	color: black;
+
+}
+
+.lcolumn{
+	position: relative;
+	top: 200px;
+	width: 45%;
+	float: left;
+	margin-left: 30px;
+	margin-right: 60px;
+	color: #ffffff;
+
+
+}
+
+#lwin{
+	margin-bottom: 200px;
+	width: 100%;
+	height: 200px;
+	text-align: right;
+	background-color: #;
+}
+
+.rcolumn{
+	position: relative;
+	width: 45%;
+	float: right;
+	margin-left: 60px;
+	margin-right: 20px;
+	color: #ffffff;
+	top: -5620px;
+
+}
+
+#rwin{
+	margin-bottom: 200px;
+	background-color: #;
+	width: 100%;
+	height: 200px;
+	text-align: left;
+	position: relative;
+}
+
+
+
+h3{
+	line-height: 0px;
+	color: #FFE400;
+}
+
+h1{
+	line-height: 10px;
+	font-size: 30px;
+}
+
+h2{
+	line-height: 25px;
+	font-size: 20px;
+
+
+}
+
+#line{
+	position:relative;
+	top: 200px;
+	left: 50%;
+	width: 10px;
+	height: 6000px;
+	background-color: #00FF59;
+
+}
+
+#dline{
+	position:relative;
+	top: -5600px;
+	left: 49.15%;
+	width: 10px;
+	height: 6000px;
+
+
+}
+
+.dot{
+  	height: 25px;
+  	width: 25px;
+  	background-color: #ffffff;
+  	border-radius: 50%;
+  	display: inline-block;
+	position: relative;
+	top: -5840px;
+	left: 49.52%;
+	margin-bottom: 171px;
+	
+}
+
+
+#secdot{
+	margin-top: 90px;
+}
+
+
+#connect{
+	position: relative;
+	left: 65%;
+
+
+}
+
+.contact{
+	width: 3%;
+	position: absolute;
+	bottom: 50px;	
+	float: right;
+	margin-right: 20px;
+
+}
+
+#p{
+	transform: translateX(-49px)		
+
+}
+
+
+#ppp{
+	transform: translateX(52px)	
+}
+
+.footer{
+	width: 102%;
+	height: 120px;
+	position: relative;
+	bottom: 20px;
+	background-color: #182952;
+	color: white;
+	text-align: center;
+	line-height: 20px;
+	font-family: Geneva;
+
+}
+
+#foot{
+	line-height: 120px;
+	position: relative;
+	left: 25%;
+}
+
+
+
+

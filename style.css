@@ -1,0 +1,210 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.container{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: 102%;
+	margin: 0px;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+#navbar{
+	position:fixed;
+	top: 0px;
+	left: 0px;
+	min-width: 100%;
+	max-width: 2500px;
+	height: 120px;
+	margin: auto;
+	background-color: #182952;
+	z-index: 10;
+
+
+}
+
+
+.nav{
+	width:;
+	height: 120px;
+	text-align: center;	
+	line-height: 190px;	
+	float: left;
+	background-color:;
+	color: white;
+	border: ;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight:lighter;
+	padding-right: 15px;
+	padding-left: 15px;
+	bottom: 0px;
+	position: relative;
+}
+
+.navtitle{
+	text-decoration: none;
+	color: white;
+
+}
+
+.navtitle:hover{
+	text-decoration: none;
+	color: #FFE400;
+
+}
+
+#home{
+	width: 300px;
+	bottom: 0px;
+	left: 0px;
+	position: relative;
+	float: left;
+}
+
+
+#homepage{
+	top: 50px;
+	bottom: 0px;
+	left: 0px;
+	position: relative;
+	float: left;
+}
+
+#experiencepage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+}
+
+#educationpage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+}
+
+
+#extracurricularspage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+}
+
+#skillspage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+}
+
+#accomplishmentspage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+}
+
+#portfoliopage{
+	bottom: 0px;
+	right: 0px;
+	float: right;
+	position: relative;
+	padding-right: 30px;
+}
+
+#content{
+	font-family: Geneva;
+	
+}
+
+#homebgpic{
+	width:102%;
+
+
+}
+
+
+
+
+#pfpic{
+	z-index: 2;
+	width: 400px;
+	position: relative;
+	top: -200px;
+	left: 35.5%;
+
+<!--fix this centering of the pfpic-->
+
+}
+
+
+#aboutme{
+	position: relative;
+	text-align: center;
+	top: -210px;
+	width: 55%;
+	margin-left: auto;
+	margin-right: auto;
+	background-colour: #F9F9F9;	
+}
+
+
+#hello{
+	font-size: 50px;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+
+#connect{
+	position: relative;
+	left: 40%;
+
+}
+
+.contact{
+	width: 3%;
+	position: absolute;
+	bottom: 50px;	
+	float: right;
+	margin-right: 20px;
+
+}
+
+#p{
+	transform: translateX(-49px)		
+
+}
+
+
+#ppp{
+	transform: translateX(52px)	
+}
+
+
+
+.footer{
+	width: 102%;
+	height: 120px;
+	position: relative;
+	bottom: 0px;
+	background-color: #182952;
+	color: white;
+	text-align: center;
+	line-height: 20px;
+	font-family: Geneva;
+
+}
+
+#foot{
+	line-height: 120px;
+}
+
+
+
+
+
+
+
+
+

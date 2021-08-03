@@ -1,0 +1,382 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.container{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: 102%;
+	margin: 0px;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	background-color: white;
+	color: black;
+}
+
+#navbar{
+	position:fixed;
+	top: 0px;
+	left: 0px;
+	min-width: 100%;
+	max-width: 2500px;
+	height: 120px;
+	margin: auto;
+	background-color: #182952;
+	z-index: 10;
+
+
+}
+
+
+.nav{
+	width:;
+	height: 120px;
+	text-align: center;	
+	line-height: 190px;	
+	float: left;
+	background-color:;
+	color: white;
+	border: ;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight:lighter;
+	padding-right: 15px;
+	padding-left: 15px;
+	bottom: 0px;
+	position: relative;
+}
+
+.navtitle{
+	text-decoration: none;
+	color: white;
+
+}
+
+.navtitle:hover{
+	text-decoration: none;
+	color: #FFE400;
+
+}
+
+#home{
+	width: 300px;
+	bottom: 0px;
+	left: 0px;
+	position: relative;
+	float: left;
+}
+
+
+#homepage{
+	top: 50px;
+	bottom: 0px;
+	left: 0px;
+	position: relative;
+	float: left;
+}
+
+#experiencepage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+
+}
+
+#exctitle{
+	color: #FFE400;
+}
+
+#educationpage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+}
+
+
+#extracurricularspage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+}
+
+#skillspage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+}
+
+#accomplishmentspage{
+	bottom: 0px;
+	float: right;
+	position: relative;
+}
+
+#portfoliopage{
+	bottom: 0px;
+	right: 0px;
+	float: right;
+	position: relative;
+	padding-right: 30px;
+}
+
+#content{
+	font-family: Geneva;
+
+	
+}
+
+#heading1{
+	position: relative;
+	top: 60px;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	margin-bottom: 50px;
+	background-color: #F9F9F9;
+	width: 102%;	
+
+}
+
+#heading2{
+	position: relative;
+
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	background-color: #F9F9F9dd;
+	width: 102%;	
+
+}
+
+h1{
+	font-size: 50px;
+}
+
+.row{
+	position: relative;
+	height: 300px;
+	margin-bottom: 100px;
+	margin-top: 100px;
+	z-index: 1;	
+
+}
+
+
+.curricular{
+	position: relative;
+	text-align: center;
+	color: #black;
+	width: 30%;
+	height: 100%;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	position: relative;
+
+}
+
+.curricular:hover{
+	position: relative;
+	text-align: center;
+	color: #00000000;
+	width: 30%;
+	height: 100%;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	position: relative;
+
+}
+
+
+
+.image{
+	width: 30%;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	position: relative;
+	margin-bottom: 50px;	
+
+
+}
+
+
+
+
+.itext{
+	color: #ffffff;
+	width: 100%;
+	height: 100%;
+	z-index: 4;
+	transform: translateX(20px);
+}
+
+.itext:hover{
+	color: #00000000;
+	width: 100%;
+	height: 100%;
+	z-index: 4;
+	transform: translateX(20px);
+}
+
+h2{
+	line-height: 10px;
+
+}
+
+#dtitle{
+	line-height: 30px;
+
+}
+
+h3{
+	font-size: 45px;
+	position: absolute;
+	text-align: center;
+	height: 40%;
+	width: 100%;
+	transform: translate(0px,50%)
+
+
+}
+
+
+p{
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: justify;
+
+}
+
+
+.twoline{
+	font-size: 45px;
+	position: absolute;
+	text-align: center;
+	height: 40%;
+	width: 100%;
+	transform: translate(0px,27%)
+
+
+}
+
+
+
+h4{
+	font-size: 20px;
+	position: absolute;
+	text-align: center;
+	height: 40%;
+	width: 100%;
+	transform: translate(0px,115%)
+
+}
+
+.push{
+	font-size: 20px;
+	position: absolute;
+	text-align: center;
+	height: 40%;
+	width: 100%;
+	transform: translate(0px,143%)
+
+
+}
+
+
+#test{
+	width: 100%;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	position: relative;
+	margin-bottom: 50px;	
+
+
+}
+
+.textbackground{
+	color: #00000000;
+	background-color: #00000000;
+	z-index: 4;
+
+}
+
+.textbackground:hover{
+	color: #000000ff;
+	background-color:#F9F9F9dd;
+	z-index: 4;
+
+}
+
+.description{
+  	position: absolute;
+	text-align: center;
+	width: 100%;
+	height: 97%;
+
+	z-index: 4;
+	top: 0px
+}
+
+.description:hover{
+  	position: absolute;
+	text-align: center;
+	width: 100%;
+	height: 97%;
+
+	background-color:#F9F9F9dd;
+	z-index: 4;
+}
+
+
+#sectend{
+
+
+}
+
+#connect{
+	position: relative;
+	left: 90%;
+
+}
+
+.contact{
+	width: 3%;
+	position: absolute;
+	bottom: 50px;	
+	float: right;
+	margin-right: 20px;
+
+}
+
+#p{
+	transform: translateX(-49px)		
+
+}
+
+
+#ppp{
+	transform: translateX(52px)	
+}
+
+.footer{
+	width: 102%;
+	height: 120px;
+	position: relative;
+	bottom: 0px;
+	background-color: #182952;
+	color: white;
+
+	line-height: 20px;
+	font-family: Geneva;
+
+}
+
+#foot{
+	line-height: 120px;
+	text-align: center;
+}
